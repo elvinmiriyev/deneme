@@ -1,0 +1,29 @@
+{
+  "name": "elvin-miriyev",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "elvin": " echo 'benim adım Elvin'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Elvin Miriyev",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.2",
+    "nodemailer": "^6.7.2",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "wepack-cli": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elvinmiriyev/deneme.git"
+  }
+}
